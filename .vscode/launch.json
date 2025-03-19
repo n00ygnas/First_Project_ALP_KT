@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FireApplication<fire>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.kt.fire.FireApplication",
+            "projectName": "fire",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
